@@ -3,8 +3,6 @@
 # Например, можно проверять товар, доступный по
 # http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/.
 
-import pytest
-from selenium import webdriver
 import time
 
 
